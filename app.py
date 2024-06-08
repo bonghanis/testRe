@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 # 페이지 제목 설정
-st.title("친근한 챗봇 update 1 ")
+st.title("친근한 챗봇 update 2 ")
 
 api_key = st.text_input("API 키를 입력하세요:", type="password")
 
